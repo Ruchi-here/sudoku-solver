@@ -27,9 +27,9 @@ This is a Sudoku game implemented using HTML, CSS, and JavaScript. It allows use
 
 ## File Structure
 
-- `index.html`: The main HTML file that contains the game layout and structure.
-- `style.css`: The CSS file that defines the styling and appearance of the game elements.
-- `script.js`: The JavaScript file that implements the game logic and functionality.
+- `sudoku.html`: The main HTML file that contains the game layout and structure.
+- `sudoku.css`: The CSS file that defines the styling and appearance of the game elements.
+- `sudoku.js`: The JavaScript file that implements the game logic and functionality.
 
 ## Development
 
