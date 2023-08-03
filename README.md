@@ -1,4 +1,3 @@
-Certainly! Here's an example of a README file explaining the functionality of the code you provided:
 
 # Sudoku Game
 
